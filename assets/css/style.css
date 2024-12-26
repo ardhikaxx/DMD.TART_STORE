@@ -207,6 +207,11 @@ header
 --------------------------------------------- 
 */
 
+.img-logo{
+  height: 90px;
+  width: auto;
+}
+
 .background-header {
   border-bottom: none !important;
   background-color: #fff;
@@ -253,6 +258,7 @@ header
 }
 
 .header-area .main-nav .logo {
+  margin-top: -5px;
   line-height: 100px;
   color: #fff;
   font-size: 28px;
